@@ -1,6 +1,6 @@
 # python-social-network-analysis
 
-A two-part data science internship series exploring social graph structures, user behavior, and network analytics using pure Python — set across two vibrant Indian cities.
+> A two-part data science practice project exploring social graph structures, user behavior, and network analytics using pure Python — set across two vibrant Indian cities.
 
 **Project Structure**
 codebook-social-network-analysis/
@@ -9,12 +9,12 @@ codebook-social-network-analysis/
 └── README.md
 
  **Project 1 – Coders of Delhi**
- **Theme**: Your Data Science Internship Begins!
- Step into the world of CodeBook, a fictional social platform for developers. In this project, you play the role of a new data science intern tasked with cleaning, structuring, and analyzing social network data sourced from Delhi's coding community.
+ **Theme**: Exploring Social Networks with Python
+ Step into the world of CodeBook, a fictional social platform for developers. In this project, you play the role of a new data science practice project tasked with cleaning, structuring, and analyzing social network data sourced from Delhi's coding community.
 
 **Modules**                                         
 1 **Welcome to CodeBook-**
-Introduction to the internship scenario, the platform's data model, and your role as a data science intern.
+Introduction to the CodeBook platform, its data model, and the social network problems we'll be solving.
 
 2 **Cleaning and Structuring the Data-**
  Learn to handle raw, messy data — fix inconsistencies, remove duplicates, and reshape the dataset into a                                                          clean, usable format using Python.
