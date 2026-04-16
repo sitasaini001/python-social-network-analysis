@@ -1,7 +1,5 @@
 # python-social-network-analysis
 
-# python-social-network-analysis
-
 A two-part data science internship series exploring social graph structures, user behavior, and network analytics using pure Python — set across two vibrant Indian cities.
 
 **Project Structure**
