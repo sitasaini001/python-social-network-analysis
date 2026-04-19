@@ -2,13 +2,24 @@
 
 > A two-part data science practice project exploring social graph structures, user behavior, and network analytics using pure Python — set across two vibrant Indian cities.
 
-**Project Structure**
-codebook-social-network-analysis/
-├── project1_delhi/        # Coders of Delhi
-├── project2_bangalore/    # Coders of Bangalore
+python-social-network-analysis/
+├── project1_coders_of_delhi/
+│   ├── module1_welcome_to_codebook/
+│   ├── module2_cleaning_and_structuring/
+│   ├── module3_people_you_may_know/
+│   └── module4_pages_you_might_like/
+├── project2_coders_of_bangalore/
+│   ├── module1_welcome_sam_altman/
+│   ├── module2_data_collection_indiranagar/
+│   ├── module3_parsing_data/
+│   ├── module4_max_posts_and_followers/
+│   ├── module5_posts_followers_categories/
+│   └── module6_analyzing_final_data/
 └── README.md
 
- **Project 1 – Coders of Delhi**
+
+ # Project 1 – Coders of Delhi
+ 
  **Theme**: Exploring Social Networks with Python
  Step into the world of CodeBook, a fictional social platform for developers. In this project, you play the role of a new data science practice project tasked with cleaning, structuring, and analyzing social network data sourced from Delhi's coding community.
 
@@ -25,7 +36,9 @@ Implement a friend-suggestion algorithm by analyzing mutual connections within t
 4 **Finding "Pages You Might Like"-**                      
 Build a page recommendation engine by identifying interest overlaps between users and popular pages on the                                                        platform.
 
-**Project 2 – Coders of Bangalore**
+
+# Project 2 – Coders of Bangalore
+
 **Theme**: Real-World Data Collection & Deep Analysis
 This project takes the internship to Bangalore — India's Silicon Valley. You'll shadow Sam Altman's fictional visit to Indiranagar, collecting live social data, parsing it from scratch, and uncovering the platform's power users and trends.
 
@@ -47,6 +60,15 @@ Identify the most influential users on the platform by ranking them across post 
 
 6 **Analyzing the Final Collected Data**
  Wrap up with exploratory data analysis — summarize trends, visualize patterns, and draw                                                                           conclusions from the Bangalore dataset.
+
+**Learning Outcomes**
+By completing both projects, you will be able to:
+
+-Clean and preprocess real-world social network data using Python
+-Model social graphs and implement graph traversal algorithms
+-Build recommendation engines for users and content
+-Scrape, parse, and structure raw data without external libraries
+-Perform exploratory data analysis and surface meaningful insights
 
 
  
