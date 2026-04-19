@@ -1,21 +1,13 @@
-# python-social-network-analysis
+## python-social-network-analysis
 
 > A two-part data science practice project exploring social graph structures, user behavior, and network analytics using pure Python — set across two vibrant Indian cities.
 
-python-social-network-analysis/
-├── project1_coders_of_delhi/
-│   ├── module1_welcome_to_codebook/
-│   ├── module2_cleaning_and_structuring/
-│   ├── module3_people_you_may_know/
-│   └── module4_pages_you_might_like/
-├── project2_coders_of_bangalore/
-│   ├── module1_welcome_sam_altman/
-│   ├── module2_data_collection_indiranagar/
-│   ├── module3_parsing_data/
-│   ├── module4_max_posts_and_followers/
-│   ├── module5_posts_followers_categories/
-│   └── module6_analyzing_final_data/
-└── README.md
+```markdown
+| Project   | City          | Focus                                              |
+|-----------|---------------|----------------------------------------------------|
+| Project 1 | 🏛️ Delhi      | Data cleaning, graph modeling, recommendations     |
+| Project 2 | 🌿 Bangalore  | Data collection, parsing, influence analysis, EDA  |
+```
 
 
  # Project 1 – Coders of Delhi
@@ -61,8 +53,9 @@ Identify the most influential users on the platform by ranking them across post 
 6 **Analyzing the Final Collected Data**
  Wrap up with exploratory data analysis — summarize trends, visualize patterns, and draw                                                                           conclusions from the Bangalore dataset.
 
-**Learning Outcomes**
-By completing both projects, you will be able to:
+
+**Learning Outcomes**:
+By completing both projects, you will be able to
 
 -Clean and preprocess real-world social network data using Python
 -Model social graphs and implement graph traversal algorithms
